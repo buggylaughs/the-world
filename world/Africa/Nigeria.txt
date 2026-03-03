@@ -1,0 +1,6 @@
+Country:    Nigeria
+Continent:  Africa
+Capital:    Abuja
+Population: 206,139,589
+Area:       923,768 km2
+Currency:   Nigerian Naira

@@ -1,0 +1,6 @@
+Country:    Gambia
+Continent:  Africa
+Capital:    Banjul
+Population: 2,416,668
+Area:       11,295 km2
+Currency:   Gambian Dalasi

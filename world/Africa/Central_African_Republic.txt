@@ -1,0 +1,6 @@
+Country:    Central African Republic
+Continent:  Africa
+Capital:    Bangui
+Population: 4,829,767
+Area:       622,984 km2
+Currency:   Central African CFA Franc

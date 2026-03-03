@@ -1,0 +1,6 @@
+Country:    Burundi
+Continent:  Africa
+Capital:    Gitega
+Population: 11,890,784
+Area:       27,834 km2
+Currency:   Burundian Franc

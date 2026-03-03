@@ -1,0 +1,6 @@
+Country:    Ethiopia
+Continent:  Africa
+Capital:    Addis Ababa
+Population: 114,963,588
+Area:       1,104,300 km2
+Currency:   Ethiopian Birr

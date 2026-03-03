@@ -1,0 +1,6 @@
+Country:    Algeria
+Continent:  Africa
+Capital:    Algiers
+Population: 44,616,624
+Area:       2,381,741 km2
+Currency:   Algerian Dinar

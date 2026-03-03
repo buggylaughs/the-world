@@ -1,0 +1,6 @@
+Country:    Ecuador
+Continent:  South America
+Capital:    Quito
+Population: 17,643,054
+Area:       283,561 km2
+Currency:   US Dollar

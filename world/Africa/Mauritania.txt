@@ -1,0 +1,6 @@
+Country:    Mauritania
+Continent:  Africa
+Capital:    Nouakchott
+Population: 4,649,658
+Area:       1,030,700 km2
+Currency:   Mauritanian Ouguiya

@@ -1,0 +1,6 @@
+Country:    Ivory Coast
+Continent:  Africa
+Capital:    Yamoussoukro
+Population: 26,378,274
+Area:       322,463 km2
+Currency:   West African CFA Franc

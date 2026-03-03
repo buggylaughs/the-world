@@ -1,0 +1,6 @@
+Country:    South Sudan
+Continent:  Africa
+Capital:    Juba
+Population: 11,193,725
+Area:       619,745 km2
+Currency:   South Sudanese Pound

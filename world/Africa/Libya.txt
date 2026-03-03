@@ -1,0 +1,6 @@
+Country:    Libya
+Continent:  Africa
+Capital:    Tripoli
+Population: 6,871,292
+Area:       1,759,540 km2
+Currency:   Libyan Dinar

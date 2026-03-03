@@ -1,0 +1,6 @@
+Country:    Gabon
+Continent:  Africa
+Capital:    Libreville
+Population: 2,225,734
+Area:       267,668 km2
+Currency:   Central African CFA Franc

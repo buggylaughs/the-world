@@ -1,0 +1,6 @@
+Country:    Uruguay
+Continent:  South America
+Capital:    Montevideo
+Population: 3,473,730
+Area:       176,215 km2
+Currency:   Uruguayan Peso

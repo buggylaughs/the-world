@@ -1,0 +1,6 @@
+Country:    Guinea-Bissau
+Continent:  Africa
+Capital:    Bissau
+Population: 1,968,001
+Area:       36,125 km2
+Currency:   West African CFA Franc

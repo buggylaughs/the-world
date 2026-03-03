@@ -1,0 +1,6 @@
+Country:    Fiji
+Continent:  Oceania
+Capital:    Suva
+Population: 896,445
+Area:       18,274 km2
+Currency:   Fijian Dollar

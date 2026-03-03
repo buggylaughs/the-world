@@ -1,0 +1,6 @@
+Country:    Kenya
+Continent:  Africa
+Capital:    Nairobi
+Population: 53,771,296
+Area:       580,367 km2
+Currency:   Kenyan Shilling

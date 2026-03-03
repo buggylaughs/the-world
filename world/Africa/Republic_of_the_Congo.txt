@@ -1,0 +1,6 @@
+Country:    Republic of the Congo
+Continent:  Africa
+Capital:    Brazzaville
+Population: 5,835,806
+Area:       342,000 km2
+Currency:   Central African CFA Franc

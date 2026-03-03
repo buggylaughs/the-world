@@ -1,0 +1,6 @@
+Country:    Palau
+Continent:  Oceania
+Capital:    Ngerulmud
+Population: 18,094
+Area:       459 km2
+Currency:   US Dollar

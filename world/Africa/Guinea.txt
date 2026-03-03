@@ -1,0 +1,6 @@
+Country:    Guinea
+Continent:  Africa
+Capital:    Conakry
+Population: 13,132,795
+Area:       245,857 km2
+Currency:   Guinean Franc

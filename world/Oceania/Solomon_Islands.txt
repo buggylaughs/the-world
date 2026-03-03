@@ -1,0 +1,6 @@
+Country:    Solomon Islands
+Continent:  Oceania
+Capital:    Honiara
+Population: 686,884
+Area:       28,896 km2
+Currency:   Solomon Islands Dollar

@@ -1,0 +1,6 @@
+Country:    Angola
+Continent:  Africa
+Capital:    Luanda
+Population: 32,866,272
+Area:       1,246,700 km2
+Currency:   Angolan Kwanza

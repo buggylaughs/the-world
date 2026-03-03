@@ -1,0 +1,6 @@
+Country:    Malawi
+Continent:  Africa
+Capital:    Lilongwe
+Population: 19,129,952
+Area:       118,484 km2
+Currency:   Malawian Kwacha

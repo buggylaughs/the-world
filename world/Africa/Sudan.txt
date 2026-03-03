@@ -1,0 +1,6 @@
+Country:    Sudan
+Continent:  Africa
+Capital:    Khartoum
+Population: 43,849,260
+Area:       1,861,484 km2
+Currency:   Sudanese Pound

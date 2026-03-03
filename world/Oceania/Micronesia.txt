@@ -1,0 +1,6 @@
+Country:    Micronesia
+Continent:  Oceania
+Capital:    Palikir
+Population: 115,023
+Area:       702 km2
+Currency:   US Dollar

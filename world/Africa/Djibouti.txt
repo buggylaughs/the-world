@@ -1,0 +1,6 @@
+Country:    Djibouti
+Continent:  Africa
+Capital:    Djibouti
+Population: 988,000
+Area:       23,200 km2
+Currency:   Djiboutian Franc

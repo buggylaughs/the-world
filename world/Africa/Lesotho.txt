@@ -1,0 +1,6 @@
+Country:    Lesotho
+Continent:  Africa
+Capital:    Maseru
+Population: 2,142,249
+Area:       30,355 km2
+Currency:   Lesotho Loti

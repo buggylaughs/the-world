@@ -1,0 +1,6 @@
+Country:    Liberia
+Continent:  Africa
+Capital:    Monrovia
+Population: 5,057,681
+Area:       111,369 km2
+Currency:   Liberian Dollar

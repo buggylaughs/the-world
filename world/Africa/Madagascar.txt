@@ -1,0 +1,6 @@
+Country:    Madagascar
+Continent:  Africa
+Capital:    Antananarivo
+Population: 27,691,018
+Area:       587,041 km2
+Currency:   Malagasy Ariary

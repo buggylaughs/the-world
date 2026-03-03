@@ -1,0 +1,6 @@
+Country:    Sierra Leone
+Continent:  Africa
+Capital:    Freetown
+Population: 7,976,983
+Area:       71,740 km2
+Currency:   Sierra Leonean Leone

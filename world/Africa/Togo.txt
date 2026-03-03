@@ -1,0 +1,6 @@
+Country:    Togo
+Continent:  Africa
+Capital:    Lome
+Population: 8,278,724
+Area:       56,785 km2
+Currency:   West African CFA Franc

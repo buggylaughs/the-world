@@ -1,0 +1,6 @@
+Country:    Zimbabwe
+Continent:  Africa
+Capital:    Harare
+Population: 14,862,924
+Area:       390,757 km2
+Currency:   Zimbabwean Dollar

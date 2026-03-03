@@ -1,0 +1,6 @@
+Country:    Morocco
+Continent:  Africa
+Capital:    Rabat
+Population: 36,910,560
+Area:       710,850 km2
+Currency:   Moroccan Dirham

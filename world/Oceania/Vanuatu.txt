@@ -1,0 +1,6 @@
+Country:    Vanuatu
+Continent:  Oceania
+Capital:    Port Vila
+Population: 307,145
+Area:       12,189 km2
+Currency:   Vanuatu Vatu

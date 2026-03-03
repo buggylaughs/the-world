@@ -1,0 +1,6 @@
+Country:    Cameroon
+Continent:  Africa
+Capital:    Yaounde
+Population: 26,545,863
+Area:       475,442 km2
+Currency:   Central African CFA Franc

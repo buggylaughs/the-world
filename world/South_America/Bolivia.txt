@@ -1,0 +1,6 @@
+Country:    Bolivia
+Continent:  South America
+Capital:    Sucre
+Population: 11,673,021
+Area:       1,098,581 km2
+Currency:   Bolivian Boliviano

@@ -1,0 +1,6 @@
+Country:    Benin
+Continent:  Africa
+Capital:    Porto-Novo
+Population: 12,123,200
+Area:       112,622 km2
+Currency:   West African CFA Franc

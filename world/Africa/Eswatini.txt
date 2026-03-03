@@ -1,0 +1,6 @@
+Country:    Eswatini
+Continent:  Africa
+Capital:    Mbabane
+Population: 1,160,164
+Area:       17,364 km2
+Currency:   Swazi Lilangeni

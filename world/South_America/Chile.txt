@@ -1,0 +1,6 @@
+Country:    Chile
+Continent:  South America
+Capital:    Santiago
+Population: 19,116,201
+Area:       756,102 km2
+Currency:   Chilean Peso

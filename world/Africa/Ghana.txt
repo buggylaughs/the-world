@@ -1,0 +1,6 @@
+Country:    Ghana
+Continent:  Africa
+Capital:    Accra
+Population: 31,072,940
+Area:       238,533 km2
+Currency:   Ghanaian Cedi

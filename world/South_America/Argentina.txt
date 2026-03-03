@@ -1,0 +1,6 @@
+Country:    Argentina
+Continent:  South America
+Capital:    Buenos Aires
+Population: 45,195,774
+Area:       2,780,400 km2
+Currency:   Argentine Peso

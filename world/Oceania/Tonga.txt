@@ -1,0 +1,6 @@
+Country:    Tonga
+Continent:  Oceania
+Capital:    Nukualofa
+Population: 105,695
+Area:       747 km2
+Currency:   Tongan Paanga

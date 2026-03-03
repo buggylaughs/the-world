@@ -1,0 +1,6 @@
+Country:    Zambia
+Continent:  Africa
+Capital:    Lusaka
+Population: 18,383,955
+Area:       752,618 km2
+Currency:   Zambian Kwacha

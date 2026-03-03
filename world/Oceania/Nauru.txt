@@ -1,0 +1,6 @@
+Country:    Nauru
+Continent:  Oceania
+Capital:    Yaren
+Population: 10,824
+Area:       21 km2
+Currency:   Australian Dollar

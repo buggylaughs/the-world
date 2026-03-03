@@ -1,0 +1,6 @@
+Country:    Australia
+Continent:  Oceania
+Capital:    Canberra
+Population: 25,499,884
+Area:       7,692,024 km2
+Currency:   Australian Dollar

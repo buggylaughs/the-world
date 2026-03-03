@@ -1,0 +1,6 @@
+Country:    Venezuela
+Continent:  South America
+Capital:    Caracas
+Population: 28,435,943
+Area:       912,050 km2
+Currency:   Venezuelan Bolivar

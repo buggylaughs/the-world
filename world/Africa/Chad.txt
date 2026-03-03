@@ -1,0 +1,6 @@
+Country:    Chad
+Continent:  Africa
+Capital:    N Djamena
+Population: 16,425,864
+Area:       1,284,000 km2
+Currency:   Central African CFA Franc

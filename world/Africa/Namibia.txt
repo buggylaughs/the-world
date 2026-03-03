@@ -1,0 +1,6 @@
+Country:    Namibia
+Continent:  Africa
+Capital:    Windhoek
+Population: 2,540,905
+Area:       824,292 km2
+Currency:   Namibian Dollar

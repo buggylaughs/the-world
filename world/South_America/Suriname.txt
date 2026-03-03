@@ -1,0 +1,6 @@
+Country:    Suriname
+Continent:  South America
+Capital:    Paramaribo
+Population: 586,632
+Area:       163,820 km2
+Currency:   Surinamese Dollar

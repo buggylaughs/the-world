@@ -1,0 +1,6 @@
+Country:    Peru
+Continent:  South America
+Capital:    Lima
+Population: 32,971,854
+Area:       1,285,216 km2
+Currency:   Peruvian Sol

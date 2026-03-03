@@ -1,0 +1,6 @@
+Country:    Guyana
+Continent:  South America
+Capital:    Georgetown
+Population: 786,552
+Area:       214,969 km2
+Currency:   Guyanese Dollar

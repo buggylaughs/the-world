@@ -1,0 +1,6 @@
+Country:    Comoros
+Continent:  Africa
+Capital:    Moroni
+Population: 888,451
+Area:       2,235 km2
+Currency:   Comorian Franc

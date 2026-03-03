@@ -1,0 +1,6 @@
+Country:    Papua New Guinea
+Continent:  Oceania
+Capital:    Port Moresby
+Population: 8,947,024
+Area:       462,840 km2
+Currency:   Papua New Guinean Kina

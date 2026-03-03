@@ -1,0 +1,6 @@
+Country:    Brazil
+Continent:  South America
+Capital:    Brasilia
+Population: 212,559,417
+Area:       8,515,767 km2
+Currency:   Brazilian Real

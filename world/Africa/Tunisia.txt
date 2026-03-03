@@ -1,0 +1,6 @@
+Country:    Tunisia
+Continent:  Africa
+Capital:    Tunis
+Population: 11,818,619
+Area:       163,610 km2
+Currency:   Tunisian Dinar

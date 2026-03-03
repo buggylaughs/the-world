@@ -1,0 +1,6 @@
+Country:    Senegal
+Continent:  Africa
+Capital:    Dakar
+Population: 16,743,927
+Area:       196,722 km2
+Currency:   West African CFA Franc

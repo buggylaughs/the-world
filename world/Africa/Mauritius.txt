@@ -1,0 +1,6 @@
+Country:    Mauritius
+Continent:  Africa
+Capital:    Port Louis
+Population: 1,271,768
+Area:       2,040 km2
+Currency:   Mauritian Rupee

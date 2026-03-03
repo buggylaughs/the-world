@@ -1,0 +1,6 @@
+Country:    Marshall Islands
+Continent:  Oceania
+Capital:    Majuro
+Population: 59,190
+Area:       181 km2
+Currency:   US Dollar

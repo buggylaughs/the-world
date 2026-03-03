@@ -1,0 +1,6 @@
+Country:    Sao Tome and Principe
+Continent:  Africa
+Capital:    Sao Tome
+Population: 219,159
+Area:       964 km2
+Currency:   Sao Tome and Principe Dobra

@@ -1,0 +1,6 @@
+Country:    Kiribati
+Continent:  Oceania
+Capital:    South Tarawa
+Population: 119,449
+Area:       811 km2
+Currency:   Australian Dollar

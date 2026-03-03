@@ -1,0 +1,6 @@
+Country:    Burkina Faso
+Continent:  Africa
+Capital:    Ouagadougou
+Population: 21,510,181
+Area:       274,222 km2
+Currency:   West African CFA Franc

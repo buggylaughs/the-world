@@ -1,0 +1,6 @@
+Country:    Mozambique
+Continent:  Africa
+Capital:    Maputo
+Population: 31,255,435
+Area:       801,590 km2
+Currency:   Mozambican Metical

@@ -1,0 +1,6 @@
+Country:    Uganda
+Continent:  Africa
+Capital:    Kampala
+Population: 45,741,007
+Area:       241,038 km2
+Currency:   Ugandan Shilling

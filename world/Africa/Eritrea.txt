@@ -1,0 +1,6 @@
+Country:    Eritrea
+Continent:  Africa
+Capital:    Asmara
+Population: 3,546,421
+Area:       117,600 km2
+Currency:   Eritrean Nakfa

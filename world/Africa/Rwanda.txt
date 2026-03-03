@@ -1,0 +1,6 @@
+Country:    Rwanda
+Continent:  Africa
+Capital:    Kigali
+Population: 12,952,218
+Area:       26,338 km2
+Currency:   Rwandan Franc

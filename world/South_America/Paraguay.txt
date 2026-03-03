@@ -1,0 +1,6 @@
+Country:    Paraguay
+Continent:  South America
+Capital:    Asuncion
+Population: 7,132,538
+Area:       406,752 km2
+Currency:   Paraguayan Guarani

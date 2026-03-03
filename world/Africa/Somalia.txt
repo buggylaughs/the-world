@@ -1,0 +1,6 @@
+Country:    Somalia
+Continent:  Africa
+Capital:    Mogadishu
+Population: 15,893,222
+Area:       637,657 km2
+Currency:   Somali Shilling

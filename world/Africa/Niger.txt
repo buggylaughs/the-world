@@ -1,0 +1,6 @@
+Country:    Niger
+Continent:  Africa
+Capital:    Niamey
+Population: 24,206,644
+Area:       1,267,000 km2
+Currency:   West African CFA Franc

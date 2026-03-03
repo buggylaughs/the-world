@@ -1,0 +1,6 @@
+Country:    South Africa
+Continent:  Africa
+Capital:    Pretoria
+Population: 59,308,690
+Area:       1,219,090 km2
+Currency:   South African Rand

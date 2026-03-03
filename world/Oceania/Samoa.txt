@@ -1,0 +1,6 @@
+Country:    Samoa
+Continent:  Oceania
+Capital:    Apia
+Population: 198,414
+Area:       2,842 km2
+Currency:   Samoan Tala

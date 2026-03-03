@@ -1,0 +1,6 @@
+Country:    Equatorial Guinea
+Continent:  Africa
+Capital:    Malabo
+Population: 1,402,985
+Area:       28,051 km2
+Currency:   Central African CFA Franc

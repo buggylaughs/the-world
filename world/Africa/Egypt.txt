@@ -1,0 +1,6 @@
+Country:    Egypt
+Continent:  Africa
+Capital:    Cairo
+Population: 102,334,404
+Area:       1,002,450 km2
+Currency:   Egyptian Pound

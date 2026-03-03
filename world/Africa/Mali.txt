@@ -1,0 +1,6 @@
+Country:    Mali
+Continent:  Africa
+Capital:    Bamako
+Population: 20,250,833
+Area:       1,240,192 km2
+Currency:   West African CFA Franc

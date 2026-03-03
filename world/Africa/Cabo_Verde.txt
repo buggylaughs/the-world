@@ -1,0 +1,6 @@
+Country:    Cabo Verde
+Continent:  Africa
+Capital:    Praia
+Population: 555,987
+Area:       4,033 km2
+Currency:   Cape Verdean Escudo

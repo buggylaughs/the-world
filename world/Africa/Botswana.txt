@@ -1,0 +1,6 @@
+Country:    Botswana
+Continent:  Africa
+Capital:    Gaborone
+Population: 2,588,423
+Area:       581,730 km2
+Currency:   Botswana Pula

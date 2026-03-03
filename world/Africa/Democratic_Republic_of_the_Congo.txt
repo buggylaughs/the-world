@@ -1,0 +1,6 @@
+Country:    Democratic Republic of the Congo
+Continent:  Africa
+Capital:    Kinshasa
+Population: 89,561,403
+Area:       2,344,858 km2
+Currency:   Congolese Franc

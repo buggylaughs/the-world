@@ -1,0 +1,6 @@
+Country:    Seychelles
+Continent:  Africa
+Capital:    Victoria
+Population: 98,347
+Area:       459 km2
+Currency:   Seychellois Rupee

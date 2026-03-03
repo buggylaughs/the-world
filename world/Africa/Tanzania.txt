@@ -1,0 +1,6 @@
+Country:    Tanzania
+Continent:  Africa
+Capital:    Dodoma
+Population: 59,734,218
+Area:       945,087 km2
+Currency:   Tanzanian Shilling

@@ -1,0 +1,6 @@
+Country:    New Zealand
+Continent:  Oceania
+Capital:    Wellington
+Population: 4,822,233
+Area:       270,467 km2
+Currency:   New Zealand Dollar

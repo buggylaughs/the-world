@@ -1,0 +1,6 @@
+Country:    Tuvalu
+Continent:  Oceania
+Capital:    Funafuti
+Population: 11,792
+Area:       26 km2
+Currency:   Australian Dollar
