@@ -1,0 +1,9 @@
+Region:     Antarctica
+Status:     International Territory (not a country)
+Governed by: Antarctic Treaty System (54 signatory nations)
+Capital:    None
+Population: ~1,000 - 5,000 (research staff only, no permanent residents)
+Area:       14,200,000 km2
+Currency:   None (US Dollar commonly used at research stations)
+Languages:  None official
+Fact:       The coldest, driest, and windiest continent on Earth
