@@ -1,0 +1,6 @@
+Country:    Saint Kitts and Nevis
+Continent:  North America
+Capital:    Basseterre
+Population: 53,199
+Area:       261 km2
+Currency:   East Caribbean Dollar

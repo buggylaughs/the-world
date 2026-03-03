@@ -1,0 +1,6 @@
+Country:    Saint Lucia
+Continent:  North America
+Capital:    Castries
+Population: 183,627
+Area:       616 km2
+Currency:   East Caribbean Dollar

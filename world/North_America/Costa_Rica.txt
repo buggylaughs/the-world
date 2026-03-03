@@ -1,0 +1,6 @@
+Country:    Costa Rica
+Continent:  North America
+Capital:    San Jose
+Population: 5,094,118
+Area:       51,100 km2
+Currency:   Costa Rican Colon

@@ -1,0 +1,6 @@
+Country:    Belize
+Continent:  North America
+Capital:    Belmopan
+Population: 397,628
+Area:       22,966 km2
+Currency:   Belize Dollar

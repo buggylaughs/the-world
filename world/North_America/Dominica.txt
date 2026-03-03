@@ -1,0 +1,6 @@
+Country:    Dominica
+Continent:  North America
+Capital:    Roseau
+Population: 71,986
+Area:       751 km2
+Currency:   East Caribbean Dollar

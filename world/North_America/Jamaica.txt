@@ -1,0 +1,6 @@
+Country:    Jamaica
+Continent:  North America
+Capital:    Kingston
+Population: 2,961,167
+Area:       10,991 km2
+Currency:   Jamaican Dollar

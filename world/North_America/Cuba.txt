@@ -1,0 +1,6 @@
+Country:    Cuba
+Continent:  North America
+Capital:    Havana
+Population: 11,326,616
+Area:       109,884 km2
+Currency:   Cuban Peso

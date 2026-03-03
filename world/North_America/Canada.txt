@@ -1,0 +1,6 @@
+Country:    Canada
+Continent:  North America
+Capital:    Ottawa
+Population: 37,742,154
+Area:       9,984,670 km2
+Currency:   Canadian Dollar

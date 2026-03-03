@@ -1,0 +1,6 @@
+Country:    Honduras
+Continent:  North America
+Capital:    Tegucigalpa
+Population: 9,904,607
+Area:       112,492 km2
+Currency:   Honduran Lempira

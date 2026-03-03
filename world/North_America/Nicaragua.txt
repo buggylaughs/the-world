@@ -1,0 +1,6 @@
+Country:    Nicaragua
+Continent:  North America
+Capital:    Managua
+Population: 6,624,554
+Area:       130,373 km2
+Currency:   Nicaraguan Cordoba

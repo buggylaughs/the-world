@@ -1,0 +1,6 @@
+Country:    Panama
+Continent:  North America
+Capital:    Panama City
+Population: 4,314,767
+Area:       75,417 km2
+Currency:   Panamanian Balboa

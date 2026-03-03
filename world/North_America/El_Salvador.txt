@@ -1,0 +1,6 @@
+Country:    El Salvador
+Continent:  North America
+Capital:    San Salvador
+Population: 6,486,205
+Area:       21,041 km2
+Currency:   US Dollar

@@ -1,0 +1,6 @@
+Country:    Barbados
+Continent:  North America
+Capital:    Bridgetown
+Population: 287,375
+Area:       430 km2
+Currency:   Barbadian Dollar

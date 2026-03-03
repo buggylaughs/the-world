@@ -1,0 +1,6 @@
+Country:    Bahamas
+Continent:  North America
+Capital:    Nassau
+Population: 393,244
+Area:       13,943 km2
+Currency:   Bahamian Dollar

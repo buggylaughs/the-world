@@ -1,0 +1,6 @@
+Country:    Antigua and Barbuda
+Continent:  North America
+Capital:    Saint Johns
+Population: 97,929
+Area:       443 km2
+Currency:   East Caribbean Dollar

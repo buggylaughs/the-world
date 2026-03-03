@@ -1,0 +1,6 @@
+Country:    Haiti
+Continent:  North America
+Capital:    Port-au-Prince
+Population: 11,402,528
+Area:       27,750 km2
+Currency:   Haitian Gourde

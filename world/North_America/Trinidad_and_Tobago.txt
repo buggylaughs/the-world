@@ -1,0 +1,6 @@
+Country:    Trinidad and Tobago
+Continent:  North America
+Capital:    Port of Spain
+Population: 1,399,488
+Area:       5,130 km2
+Currency:   Trinidad and Tobago Dollar

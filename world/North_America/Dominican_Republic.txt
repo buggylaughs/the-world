@@ -1,0 +1,6 @@
+Country:    Dominican Republic
+Continent:  North America
+Capital:    Santo Domingo
+Population: 10,847,910
+Area:       48,671 km2
+Currency:   Dominican Peso

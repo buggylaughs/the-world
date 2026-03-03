@@ -1,0 +1,6 @@
+Country:    Saint Vincent and the Grenadines
+Continent:  North America
+Capital:    Kingstown
+Population: 110,940
+Area:       389 km2
+Currency:   East Caribbean Dollar

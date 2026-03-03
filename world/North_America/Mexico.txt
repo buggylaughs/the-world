@@ -1,0 +1,6 @@
+Country:    Mexico
+Continent:  North America
+Capital:    Mexico City
+Population: 128,932,753
+Area:       1,964,375 km2
+Currency:   Mexican Peso

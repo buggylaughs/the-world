@@ -1,0 +1,6 @@
+Country:    Grenada
+Continent:  North America
+Capital:    Saint Georges
+Population: 112,523
+Area:       344 km2
+Currency:   East Caribbean Dollar

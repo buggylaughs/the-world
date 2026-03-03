@@ -1,0 +1,6 @@
+Country:    Guatemala
+Continent:  North America
+Capital:    Guatemala City
+Population: 17,915,568
+Area:       108,889 km2
+Currency:   Guatemalan Quetzal

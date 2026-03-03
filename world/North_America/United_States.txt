@@ -1,0 +1,6 @@
+Country:    United States
+Continent:  North America
+Capital:    Washington D.C.
+Population: 331,002,651
+Area:       9,372,610 km2
+Currency:   US Dollar
