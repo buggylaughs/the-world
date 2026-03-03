@@ -1,0 +1,6 @@
+Country:    Kyrgyzstan
+Continent:  Asia
+Capital:    Bishkek
+Population: 6,524,195
+Area:       199,951 km2
+Currency:   Kyrgyzstani Som

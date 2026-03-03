@@ -1,0 +1,6 @@
+Country:    Croatia
+Continent:  Europe
+Capital:    Zagreb
+Population: 4,105,267
+Area:       56,594 km2
+Currency:   Euro

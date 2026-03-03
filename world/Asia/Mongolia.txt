@@ -1,0 +1,6 @@
+Country:    Mongolia
+Continent:  Asia
+Capital:    Ulaanbaatar
+Population: 3,278,290
+Area:       1,564,110 km2
+Currency:   Mongolian Togrog

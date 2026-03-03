@@ -1,0 +1,6 @@
+Country:    Georgia
+Continent:  Asia
+Capital:    Tbilisi
+Population: 3,989,167
+Area:       69,700 km2
+Currency:   Georgian Lari

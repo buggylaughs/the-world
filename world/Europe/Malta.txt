@@ -1,0 +1,6 @@
+Country:    Malta
+Continent:  Europe
+Capital:    Valletta
+Population: 441,543
+Area:       316 km2
+Currency:   Euro

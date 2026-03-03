@@ -1,0 +1,6 @@
+Country:    Monaco
+Continent:  Europe
+Capital:    Monaco
+Population: 39,242
+Area:       2 km2
+Currency:   Euro

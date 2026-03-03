@@ -1,0 +1,6 @@
+Country:    Lithuania
+Continent:  Europe
+Capital:    Vilnius
+Population: 2,722,289
+Area:       65,300 km2
+Currency:   Euro

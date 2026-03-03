@@ -1,0 +1,6 @@
+Country:    Sri Lanka
+Continent:  Asia
+Capital:    Colombo
+Population: 21,413,249
+Area:       65,610 km2
+Currency:   Sri Lankan Rupee

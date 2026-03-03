@@ -1,0 +1,6 @@
+Country:    Israel
+Continent:  Asia
+Capital:    Jerusalem
+Population: 8,655,535
+Area:       20,770 km2
+Currency:   Israeli New Shekel

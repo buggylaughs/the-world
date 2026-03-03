@@ -1,0 +1,6 @@
+Country:    United Kingdom
+Continent:  Europe
+Capital:    London
+Population: 67,886,011
+Area:       242,495 km2
+Currency:   British Pound Sterling

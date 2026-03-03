@@ -1,0 +1,6 @@
+Country:    Maldives
+Continent:  Asia
+Capital:    Male
+Population: 540,544
+Area:       298 km2
+Currency:   Maldivian Rufiyaa

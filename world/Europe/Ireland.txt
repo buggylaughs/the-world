@@ -1,0 +1,6 @@
+Country:    Ireland
+Continent:  Europe
+Capital:    Dublin
+Population: 4,937,786
+Area:       70,273 km2
+Currency:   Euro

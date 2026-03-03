@@ -1,0 +1,6 @@
+Country:    Romania
+Continent:  Europe
+Capital:    Bucharest
+Population: 19,237,691
+Area:       238,397 km2
+Currency:   Romanian Leu

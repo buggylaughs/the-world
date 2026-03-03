@@ -1,0 +1,6 @@
+Country:    Lebanon
+Continent:  Asia
+Capital:    Beirut
+Population: 6,825,445
+Area:       10,452 km2
+Currency:   Lebanese Pound

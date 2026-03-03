@@ -1,0 +1,6 @@
+Country:    Austria
+Continent:  Europe
+Capital:    Vienna
+Population: 9,006,398
+Area:       83,871 km2
+Currency:   Euro

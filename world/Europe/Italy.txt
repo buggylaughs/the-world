@@ -1,0 +1,6 @@
+Country:    Italy
+Continent:  Europe
+Capital:    Rome
+Population: 60,461,826
+Area:       301,340 km2
+Currency:   Euro

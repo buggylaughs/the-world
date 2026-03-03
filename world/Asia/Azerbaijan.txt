@@ -1,0 +1,6 @@
+Country:    Azerbaijan
+Continent:  Asia
+Capital:    Baku
+Population: 10,139,177
+Area:       86,600 km2
+Currency:   Azerbaijani Manat

@@ -1,0 +1,6 @@
+Country:    Russia
+Continent:  Europe
+Capital:    Moscow
+Population: 145,934,462
+Area:       17,098,242 km2
+Currency:   Russian Ruble

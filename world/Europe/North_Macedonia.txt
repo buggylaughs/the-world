@@ -1,0 +1,6 @@
+Country:    North Macedonia
+Continent:  Europe
+Capital:    Skopje
+Population: 2,083,374
+Area:       25,713 km2
+Currency:   Macedonian Denar

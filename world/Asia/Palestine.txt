@@ -1,0 +1,6 @@
+Country:    Palestine
+Continent:  Asia
+Capital:    Ramallah
+Population: 5,101,414
+Area:       6,220 km2
+Currency:   Israeli New Shekel

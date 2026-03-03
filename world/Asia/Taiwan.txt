@@ -1,0 +1,6 @@
+Country:    Taiwan
+Continent:  Asia
+Capital:    Taipei
+Population: 23,816,775
+Area:       36,193 km2
+Currency:   New Taiwan Dollar

@@ -1,0 +1,6 @@
+Country:    Spain
+Continent:  Europe
+Capital:    Madrid
+Population: 46,754,778
+Area:       505,990 km2
+Currency:   Euro

@@ -1,0 +1,6 @@
+Country:    Thailand
+Continent:  Asia
+Capital:    Bangkok
+Population: 69,799,978
+Area:       513,120 km2
+Currency:   Thai Baht

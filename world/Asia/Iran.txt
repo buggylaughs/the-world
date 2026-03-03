@@ -1,0 +1,6 @@
+Country:    Iran
+Continent:  Asia
+Capital:    Tehran
+Population: 83,992,949
+Area:       1,648,195 km2
+Currency:   Iranian Rial

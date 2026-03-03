@@ -1,0 +1,6 @@
+Country:    Denmark
+Continent:  Europe
+Capital:    Copenhagen
+Population: 5,792,202
+Area:       42,924 km2
+Currency:   Danish Krone

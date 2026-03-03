@@ -1,0 +1,6 @@
+Country:    Cambodia
+Continent:  Asia
+Capital:    Phnom Penh
+Population: 16,718,965
+Area:       181,035 km2
+Currency:   Cambodian Riel

@@ -1,0 +1,6 @@
+Country:    Switzerland
+Continent:  Europe
+Capital:    Bern
+Population: 8,654,622
+Area:       41,285 km2
+Currency:   Swiss Franc

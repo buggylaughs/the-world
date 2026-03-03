@@ -1,0 +1,6 @@
+Country:    Vatican City
+Continent:  Europe
+Capital:    Vatican City
+Population: 801
+Area:       0.44 km2
+Currency:   Euro

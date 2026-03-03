@@ -1,0 +1,6 @@
+Country:    Estonia
+Continent:  Europe
+Capital:    Tallinn
+Population: 1,326,535
+Area:       45,228 km2
+Currency:   Euro

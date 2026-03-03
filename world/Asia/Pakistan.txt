@@ -1,0 +1,6 @@
+Country:    Pakistan
+Continent:  Asia
+Capital:    Islamabad
+Population: 220,892,340
+Area:       881,913 km2
+Currency:   Pakistani Rupee

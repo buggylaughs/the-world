@@ -1,0 +1,6 @@
+Country:    Nepal
+Continent:  Asia
+Capital:    Kathmandu
+Population: 29,136,808
+Area:       147,181 km2
+Currency:   Nepalese Rupee

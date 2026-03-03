@@ -1,0 +1,6 @@
+Country:    Luxembourg
+Continent:  Europe
+Capital:    Luxembourg City
+Population: 625,978
+Area:       2,586 km2
+Currency:   Euro

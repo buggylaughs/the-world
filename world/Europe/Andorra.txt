@@ -1,0 +1,6 @@
+Country:    Andorra
+Continent:  Europe
+Capital:    Andorra la Vella
+Population: 77,265
+Area:       468 km2
+Currency:   Euro

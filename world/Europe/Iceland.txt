@@ -1,0 +1,6 @@
+Country:    Iceland
+Continent:  Europe
+Capital:    Reykjavik
+Population: 341,243
+Area:       103,000 km2
+Currency:   Icelandic Krona

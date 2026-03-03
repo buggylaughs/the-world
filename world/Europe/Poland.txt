@@ -1,0 +1,6 @@
+Country:    Poland
+Continent:  Europe
+Capital:    Warsaw
+Population: 37,846,611
+Area:       312,679 km2
+Currency:   Polish Zloty

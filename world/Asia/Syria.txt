@@ -1,0 +1,6 @@
+Country:    Syria
+Continent:  Asia
+Capital:    Damascus
+Population: 17,500,658
+Area:       185,180 km2
+Currency:   Syrian Pound

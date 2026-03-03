@@ -1,0 +1,6 @@
+Country:    Kosovo
+Continent:  Europe
+Capital:    Pristina
+Population: 1,810,366
+Area:       10,887 km2
+Currency:   Euro

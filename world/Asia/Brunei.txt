@@ -1,0 +1,6 @@
+Country:    Brunei
+Continent:  Asia
+Capital:    Bandar Seri Begawan
+Population: 437,479
+Area:       5,765 km2
+Currency:   Brunei Dollar

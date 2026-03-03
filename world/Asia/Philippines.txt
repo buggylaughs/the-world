@@ -1,0 +1,6 @@
+Country:    Philippines
+Continent:  Asia
+Capital:    Manila
+Population: 109,581,078
+Area:       300,000 km2
+Currency:   Philippine Peso

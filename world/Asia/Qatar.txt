@@ -1,0 +1,6 @@
+Country:    Qatar
+Continent:  Asia
+Capital:    Doha
+Population: 2,881,053
+Area:       11,586 km2
+Currency:   Qatari Riyal

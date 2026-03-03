@@ -1,0 +1,6 @@
+Country:    Timor-Leste
+Continent:  Asia
+Capital:    Dili
+Population: 1,318,445
+Area:       14,874 km2
+Currency:   US Dollar

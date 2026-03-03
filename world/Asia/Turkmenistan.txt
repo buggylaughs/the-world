@@ -1,0 +1,6 @@
+Country:    Turkmenistan
+Continent:  Asia
+Capital:    Ashgabat
+Population: 6,031,200
+Area:       488,100 km2
+Currency:   Turkmenistani Manat

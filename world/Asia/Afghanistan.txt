@@ -1,0 +1,6 @@
+Country:    Afghanistan
+Continent:  Asia
+Capital:    Kabul
+Population: 38,928,346
+Area:       652,230 km2
+Currency:   Afghan Afghani

@@ -1,0 +1,6 @@
+Country:    Kazakhstan
+Continent:  Asia
+Capital:    Nur-Sultan
+Population: 18,776,707
+Area:       2,724,900 km2
+Currency:   Kazakhstani Tenge

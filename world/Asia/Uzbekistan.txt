@@ -1,0 +1,6 @@
+Country:    Uzbekistan
+Continent:  Asia
+Capital:    Tashkent
+Population: 33,469,203
+Area:       448,978 km2
+Currency:   Uzbekistani Som

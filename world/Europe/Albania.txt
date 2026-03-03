@@ -1,0 +1,6 @@
+Country:    Albania
+Continent:  Europe
+Capital:    Tirana
+Population: 2,877,797
+Area:       28,748 km2
+Currency:   Albanian Lek

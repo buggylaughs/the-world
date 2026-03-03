@@ -1,0 +1,6 @@
+Country:    Iraq
+Continent:  Asia
+Capital:    Baghdad
+Population: 40,222,493
+Area:       438,317 km2
+Currency:   Iraqi Dinar

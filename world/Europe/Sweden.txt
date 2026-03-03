@@ -1,0 +1,6 @@
+Country:    Sweden
+Continent:  Europe
+Capital:    Stockholm
+Population: 10,099,265
+Area:       450,295 km2
+Currency:   Swedish Krona

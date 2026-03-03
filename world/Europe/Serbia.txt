@@ -1,0 +1,6 @@
+Country:    Serbia
+Continent:  Europe
+Capital:    Belgrade
+Population: 8,737,371
+Area:       77,474 km2
+Currency:   Serbian Dinar

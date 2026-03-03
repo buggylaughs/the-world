@@ -1,0 +1,6 @@
+Country:    Finland
+Continent:  Europe
+Capital:    Helsinki
+Population: 5,540,720
+Area:       338,145 km2
+Currency:   Euro

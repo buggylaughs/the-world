@@ -1,0 +1,6 @@
+Country:    North Korea
+Continent:  Asia
+Capital:    Pyongyang
+Population: 25,778,816
+Area:       120,538 km2
+Currency:   North Korean Won

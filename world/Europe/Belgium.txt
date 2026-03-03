@@ -1,0 +1,6 @@
+Country:    Belgium
+Continent:  Europe
+Capital:    Brussels
+Population: 11,589,623
+Area:       30,528 km2
+Currency:   Euro

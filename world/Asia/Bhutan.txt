@@ -1,0 +1,6 @@
+Country:    Bhutan
+Continent:  Asia
+Capital:    Thimphu
+Population: 771,608
+Area:       38,394 km2
+Currency:   Bhutanese Ngultrum

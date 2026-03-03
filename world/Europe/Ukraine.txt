@@ -1,0 +1,6 @@
+Country:    Ukraine
+Continent:  Europe
+Capital:    Kyiv
+Population: 43,733,762
+Area:       603,550 km2
+Currency:   Ukrainian Hryvnia

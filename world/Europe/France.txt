@@ -1,0 +1,6 @@
+Country:    France
+Continent:  Europe
+Capital:    Paris
+Population: 65,273,511
+Area:       551,695 km2
+Currency:   Euro

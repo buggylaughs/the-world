@@ -1,0 +1,6 @@
+Country:    China
+Continent:  Asia
+Capital:    Beijing
+Population: 1,439,323,776
+Area:       9,596,960 km2
+Currency:   Chinese Yuan

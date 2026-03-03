@@ -1,0 +1,6 @@
+Country:    Norway
+Continent:  Europe
+Capital:    Oslo
+Population: 5,421,241
+Area:       323,802 km2
+Currency:   Norwegian Krone

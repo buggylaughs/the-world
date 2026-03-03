@@ -1,0 +1,6 @@
+Country:    Vietnam
+Continent:  Asia
+Capital:    Hanoi
+Population: 97,338,579
+Area:       331,212 km2
+Currency:   Vietnamese Dong

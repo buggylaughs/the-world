@@ -1,0 +1,6 @@
+Country:    South Korea
+Continent:  Asia
+Capital:    Seoul
+Population: 51,269,185
+Area:       100,210 km2
+Currency:   South Korean Won

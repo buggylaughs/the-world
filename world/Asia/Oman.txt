@@ -1,0 +1,6 @@
+Country:    Oman
+Continent:  Asia
+Capital:    Muscat
+Population: 4,974,986
+Area:       309,500 km2
+Currency:   Omani Rial

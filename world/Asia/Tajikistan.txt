@@ -1,0 +1,6 @@
+Country:    Tajikistan
+Continent:  Asia
+Capital:    Dushanbe
+Population: 9,537,645
+Area:       143,100 km2
+Currency:   Tajikistani Somoni

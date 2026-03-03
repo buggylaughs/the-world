@@ -1,0 +1,6 @@
+Country:    Belarus
+Continent:  Europe
+Capital:    Minsk
+Population: 9,449,323
+Area:       207,600 km2
+Currency:   Belarusian Ruble

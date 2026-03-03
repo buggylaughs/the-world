@@ -1,0 +1,6 @@
+Country:    India
+Continent:  Asia
+Capital:    New Delhi
+Population: 1,380,004,385
+Area:       3,287,263 km2
+Currency:   Indian Rupee

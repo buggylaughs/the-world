@@ -1,0 +1,6 @@
+Country:    Hungary
+Continent:  Europe
+Capital:    Budapest
+Population: 9,660,351
+Area:       93,028 km2
+Currency:   Hungarian Forint

@@ -1,0 +1,6 @@
+Country:    Jordan
+Continent:  Asia
+Capital:    Amman
+Population: 10,203,134
+Area:       89,342 km2
+Currency:   Jordanian Dinar

@@ -1,0 +1,6 @@
+Country:    Bangladesh
+Continent:  Asia
+Capital:    Dhaka
+Population: 164,689,383
+Area:       147,570 km2
+Currency:   Bangladeshi Taka

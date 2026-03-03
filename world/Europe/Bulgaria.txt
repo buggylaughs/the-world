@@ -1,0 +1,6 @@
+Country:    Bulgaria
+Continent:  Europe
+Capital:    Sofia
+Population: 6,948,445
+Area:       110,879 km2
+Currency:   Bulgarian Lev

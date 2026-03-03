@@ -1,0 +1,6 @@
+Country:    Turkey
+Continent:  Asia
+Capital:    Ankara
+Population: 84,339,067
+Area:       783,562 km2
+Currency:   Turkish Lira

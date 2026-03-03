@@ -1,0 +1,6 @@
+Country:    United Arab Emirates
+Continent:  Asia
+Capital:    Abu Dhabi
+Population: 9,890,402
+Area:       83,600 km2
+Currency:   UAE Dirham

@@ -1,0 +1,6 @@
+Country:    Armenia
+Continent:  Asia
+Capital:    Yerevan
+Population: 2,963,243
+Area:       29,743 km2
+Currency:   Armenian Dram

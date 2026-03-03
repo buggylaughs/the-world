@@ -1,0 +1,6 @@
+Country:    Bahrain
+Continent:  Asia
+Capital:    Manama
+Population: 1,701,575
+Area:       765 km2
+Currency:   Bahraini Dinar

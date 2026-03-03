@@ -1,0 +1,6 @@
+Country:    Indonesia
+Continent:  Asia
+Capital:    Jakarta
+Population: 273,523,615
+Area:       1,904,569 km2
+Currency:   Indonesian Rupiah

@@ -1,0 +1,6 @@
+Country:    Netherlands
+Continent:  Europe
+Capital:    Amsterdam
+Population: 17,134,872
+Area:       41,543 km2
+Currency:   Euro

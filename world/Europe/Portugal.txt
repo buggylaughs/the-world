@@ -1,0 +1,6 @@
+Country:    Portugal
+Continent:  Europe
+Capital:    Lisbon
+Population: 10,196,709
+Area:       92,212 km2
+Currency:   Euro

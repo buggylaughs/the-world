@@ -1,0 +1,6 @@
+Country:    Malaysia
+Continent:  Asia
+Capital:    Kuala Lumpur
+Population: 32,365,999
+Area:       329,847 km2
+Currency:   Malaysian Ringgit

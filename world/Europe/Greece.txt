@@ -1,0 +1,6 @@
+Country:    Greece
+Continent:  Europe
+Capital:    Athens
+Population: 10,423,054
+Area:       131,957 km2
+Currency:   Euro

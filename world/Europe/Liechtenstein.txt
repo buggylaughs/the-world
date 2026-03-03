@@ -1,0 +1,6 @@
+Country:    Liechtenstein
+Continent:  Europe
+Capital:    Vaduz
+Population: 38,128
+Area:       160 km2
+Currency:   Swiss Franc

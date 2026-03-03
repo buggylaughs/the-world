@@ -1,0 +1,6 @@
+Country:    Saudi Arabia
+Continent:  Asia
+Capital:    Riyadh
+Population: 34,813,871
+Area:       2,149,690 km2
+Currency:   Saudi Riyal

@@ -1,0 +1,6 @@
+Country:    Montenegro
+Continent:  Europe
+Capital:    Podgorica
+Population: 628,066
+Area:       13,812 km2
+Currency:   Euro

@@ -1,0 +1,6 @@
+Country:    Singapore
+Continent:  Asia
+Capital:    Singapore
+Population: 5,850,342
+Area:       728 km2
+Currency:   Singapore Dollar

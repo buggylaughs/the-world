@@ -1,0 +1,6 @@
+Country:    Czech Republic
+Continent:  Europe
+Capital:    Prague
+Population: 10,708,981
+Area:       78,866 km2
+Currency:   Czech Koruna

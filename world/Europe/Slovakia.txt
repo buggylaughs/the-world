@@ -1,0 +1,6 @@
+Country:    Slovakia
+Continent:  Europe
+Capital:    Bratislava
+Population: 5,459,642
+Area:       49,035 km2
+Currency:   Euro

@@ -1,0 +1,6 @@
+Country:    Laos
+Continent:  Asia
+Capital:    Vientiane
+Population: 7,275,560
+Area:       236,800 km2
+Currency:   Lao Kip

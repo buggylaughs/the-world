@@ -1,0 +1,6 @@
+Country:    Myanmar
+Continent:  Asia
+Capital:    Naypyidaw
+Population: 54,409,800
+Area:       676,578 km2
+Currency:   Myanmar Kyat

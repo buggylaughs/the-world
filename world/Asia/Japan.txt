@@ -1,0 +1,6 @@
+Country:    Japan
+Continent:  Asia
+Capital:    Tokyo
+Population: 126,476,461
+Area:       377,930 km2
+Currency:   Japanese Yen

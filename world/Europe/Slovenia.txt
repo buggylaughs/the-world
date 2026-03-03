@@ -1,0 +1,6 @@
+Country:    Slovenia
+Continent:  Europe
+Capital:    Ljubljana
+Population: 2,078,938
+Area:       20,273 km2
+Currency:   Euro

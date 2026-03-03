@@ -1,0 +1,6 @@
+Country:    Kuwait
+Continent:  Asia
+Capital:    Kuwait City
+Population: 4,270,571
+Area:       17,818 km2
+Currency:   Kuwaiti Dinar

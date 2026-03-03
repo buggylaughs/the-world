@@ -1,0 +1,6 @@
+Country:    San Marino
+Continent:  Europe
+Capital:    San Marino
+Population: 33,931
+Area:       61 km2
+Currency:   Euro

@@ -1,0 +1,6 @@
+Country:    Bosnia and Herzegovina
+Continent:  Europe
+Capital:    Sarajevo
+Population: 3,280,819
+Area:       51,197 km2
+Currency:   Convertible Mark

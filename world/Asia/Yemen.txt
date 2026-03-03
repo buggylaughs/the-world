@@ -1,0 +1,6 @@
+Country:    Yemen
+Continent:  Asia
+Capital:    Sanaa
+Population: 29,825,964
+Area:       527,968 km2
+Currency:   Yemeni Rial

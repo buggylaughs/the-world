@@ -1,0 +1,6 @@
+Country:    Moldova
+Continent:  Europe
+Capital:    Chisinau
+Population: 4,033,963
+Area:       33,846 km2
+Currency:   Moldovan Leu

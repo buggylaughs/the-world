@@ -1,0 +1,6 @@
+Country:    Cyprus
+Continent:  Asia
+Capital:    Nicosia
+Population: 1,207,359
+Area:       9,251 km2
+Currency:   Euro

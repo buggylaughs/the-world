@@ -1,0 +1,6 @@
+Country:    Germany
+Continent:  Europe
+Capital:    Berlin
+Population: 83,783,942
+Area:       357,114 km2
+Currency:   Euro
