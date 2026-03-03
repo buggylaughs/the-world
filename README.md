@@ -51,12 +51,12 @@ git --version
 Open Command Prompt (Windows) or Terminal (Mac/Linux) and run:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/delete-the-world.git
+git clone https://github.com/buggylaughs/the-world.git
 ```
 
 Then go into the folder:
 ```bash
-cd delete-the-world
+cd the-world
 ```
 
 You now have the entire world on your computer. 🌍
