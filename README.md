@@ -84,19 +84,9 @@ cat world/Asia/India.txt
 
 ### ☠️ Step 4 — Delete the World
 
-**Mac/Linux:**
+**Command: Git Bash**
 ```bash
 rm -rf world/
-```
-
-**Windows (Command Prompt):**
-```cmd
-rmdir /s /q world
-```
-
-**Windows (PowerShell):**
-```powershell
-Remove-Item -Recurse -Force world
 ```
 
 The entire world is gone. 197 files. Deleted. Just like that.
